@@ -5,7 +5,7 @@ int main()
 
 
 
-	printf("teat");
+	printf("test");
 
 	return 0;
 }
